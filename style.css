@@ -3,6 +3,16 @@ body {
     background-color: #ff6270;
 }
 
+a {
+ text-decoration: none;
+ font-size: 25px;
+ color: black;
+}
+
+a:hover {
+    color: #ff6270;
+}
+
 main {
     width: 500px;
     border: 1px solid black;
