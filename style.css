@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background-color: #ff6270;
+}
+
+main {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+header {
+    background: url("https://static.significados.com.br/foto/tulipas-significados.jpg");
+    background-size: cover;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+}
